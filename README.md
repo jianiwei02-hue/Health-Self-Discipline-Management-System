@@ -105,29 +105,70 @@ health-system
 
 ## 📷 项目截图
 
-### 登录页面
+### langding page
 <img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/3a307348-0400-45d5-98c6-25fdd3e52c01" />
 
-
-### 首页 Dashboard
-
-![首页](images/home.png)
+## 登录界面
+<img width="423" height="226" alt="image" src="https://github.com/user-attachments/assets/9e622a1a-9af9-4894-b9cc-c2b43e1a89b3" />
 
 
-### 健康数据分析
+### 健康数据记录
+<img width="407" height="132" alt="image" src="https://github.com/user-attachments/assets/a2b7737e-d643-4274-be4b-eaadde93b9de" />
 
-![健康分析](images/health-data.png)
+<img width="453" height="193" alt="image" src="https://github.com/user-attachments/assets/8c6b2528-46ba-4175-96b7-f8c7298bf8f0" />
+
+### 3D肌肉热力图 随机点击肌肉位置 可直观查看该肌肉部位运动时重点使用次数
+<img width="441" height="235" alt="image" src="https://github.com/user-attachments/assets/0119dd6f-78da-4db3-a549-d21ca1c7abea" />
+
+
+### 运动记录
+<img width="440" height="152" alt="image" src="https://github.com/user-attachments/assets/39d80159-9692-42c9-8c28-8c71421e0801" />
+
+<img width="438" height="185" alt="image" src="https://github.com/user-attachments/assets/f8d24d24-d6cc-458f-9e2e-e0ba28797605" />
+
+<img width="437" height="218" alt="image" src="https://github.com/user-attachments/assets/f8d48939-0107-41b2-9510-5fde4ab13c07" />
+
 
 
 ### 饮食记录
+<img width="411" height="168" alt="image" src="https://github.com/user-attachments/assets/7858c72b-5866-4729-a64d-41602206da13" />
+ AI识别食物
+<img width="404" height="108" alt="image" src="https://github.com/user-attachments/assets/f7f27bea-be3b-4a76-b973-49b301cba89a" />
 
-![饮食记录](images/food-record.png)
+<img width="437" height="196" alt="image" src="https://github.com/user-attachments/assets/8a7e9d17-3908-468b-9eaf-f2b5e22e7d3f" />
+
+### 健康数据分析
+<img width="421" height="222" alt="image" src="https://github.com/user-attachments/assets/b037da26-8d8d-4705-820d-84729eb964c5" />
+
+<img width="396" height="184" alt="image" src="https://github.com/user-attachments/assets/4c363e3b-d7e4-494c-ad80-47c92ec78165" />
+
+<img width="440" height="139" alt="image" src="https://github.com/user-attachments/assets/4b96afb9-e427-4cca-8773-6cceebd57a0e" />
+
+<img width="435" height="211" alt="image" src="https://github.com/user-attachments/assets/a27137e4-80d2-4318-ac9a-4fb1e0a12595" />
+
+### 健康资讯和社区
+
+<img width="445" height="229" alt="image" src="https://github.com/user-attachments/assets/1530b91b-5c37-492d-8d05-ed0d0cb6ca21" />
+
+<img width="437" height="234" alt="image" src="https://github.com/user-attachments/assets/a9d374e8-e964-451a-a910-2e3038e73262" />
+
+<img width="437" height="231" alt="image" src="https://github.com/user-attachments/assets/7efae64b-0c1c-44ea-9aaf-9634e453161e" />
+
+<img width="429" height="238" alt="image" src="https://github.com/user-attachments/assets/c4dd9446-6c51-4641-a562-79a7dc022b62" />
 
 
 ### 管理后台
 
-![管理后台](images/admin.png)
+<img width="437" height="234" alt="image" src="https://github.com/user-attachments/assets/deea910c-f371-4f23-9903-7f86bb022717" />
 
+<img width="436" height="231" alt="image" src="https://github.com/user-attachments/assets/f442c83b-7d8b-4575-bed1-968c54680444" />
+
+<img width="428" height="181" alt="image" src="https://github.com/user-attachments/assets/e9d8d6c0-f804-40c6-a097-2e3407aac17d" />
+
+<img width="411" height="189" alt="image" src="https://github.com/user-attachments/assets/51e46e44-e22c-4780-b33f-2322f3ef36f8" />
+
+
+ 该系统功能以上图片只展示部分。
 ---
 
 ## 🚀 项目运行
