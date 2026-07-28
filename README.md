@@ -132,7 +132,9 @@ health-system
 
 ### 饮食记录
 <img width="411" height="168" alt="image" src="https://github.com/user-attachments/assets/7858c72b-5866-4729-a64d-41602206da13" />
+
  AI识别食物
+ 
 <img width="404" height="108" alt="image" src="https://github.com/user-attachments/assets/f7f27bea-be3b-4a76-b973-49b301cba89a" />
 
 <img width="437" height="196" alt="image" src="https://github.com/user-attachments/assets/8a7e9d17-3908-468b-9eaf-f2b5e22e7d3f" />
@@ -158,8 +160,6 @@ health-system
 
 
 ### 管理后台
-
-<img width="437" height="234" alt="image" src="https://github.com/user-attachments/assets/deea910c-f371-4f23-9903-7f86bb022717" />
 
 <img width="436" height="231" alt="image" src="https://github.com/user-attachments/assets/f442c83b-7d8b-4575-bed1-968c54680444" />
 
