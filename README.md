@@ -3,7 +3,7 @@ Health Self Discipline Management System
 
 ## 📌 项目介绍
 
-本项目是一款面向大学生群体的健康自律管理系统，采用 **Spring Boot + Vue3 前后端分离架构** 开发。
+本项目是一款主要面向大学生群体的健康自律管理系统，采用 **Spring Boot + Vue3 前后端分离架构** 开发。
 
 系统围绕用户健康管理需求，实现个人健康数据记录、饮食管理、运动管理、习惯打卡以及健康趋势分析等功能。
 
@@ -106,66 +106,85 @@ health-system
 ## 📷 项目截图
 
 ### langding page
-<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/3a307348-0400-45d5-98c6-25fdd3e52c01" />
+<img width="947" height="503" alt="image" src="https://github.com/user-attachments/assets/e4049a4f-d85a-4616-b66c-d19eb85e40a0" />
 
 ## 登录界面
-<img width="423" height="226" alt="image" src="https://github.com/user-attachments/assets/9e622a1a-9af9-4894-b9cc-c2b43e1a89b3" />
+<img width="948" height="500" alt="image" src="https://github.com/user-attachments/assets/7d4a6dc3-9bc0-4b73-94d8-fa44bd5f0096" />
+
+### 个人信息管理
+<img width="938" height="495" alt="image" src="https://github.com/user-attachments/assets/de66e8b7-89f9-4f79-b3c0-d5de7da6588a" />
+
+<img width="942" height="503" alt="image" src="https://github.com/user-attachments/assets/a16db208-cfc6-46f2-8a28-ac71e548e837" />
 
 
 ### 健康数据记录
-<img width="407" height="132" alt="image" src="https://github.com/user-attachments/assets/a2b7737e-d643-4274-be4b-eaadde93b9de" />
+<img width="943" height="494" alt="image" src="https://github.com/user-attachments/assets/4eb754f1-56b5-49f6-befb-a18d7c211af0" />
 
-<img width="453" height="193" alt="image" src="https://github.com/user-attachments/assets/8c6b2528-46ba-4175-96b7-f8c7298bf8f0" />
+<img width="944" height="509" alt="image" src="https://github.com/user-attachments/assets/d43b0492-913a-4584-b85a-c5c25ff5feec" />
 
 ### 3D肌肉热力图 随机点击肌肉位置 可直观查看该肌肉部位运动时重点使用次数
-<img width="441" height="235" alt="image" src="https://github.com/user-attachments/assets/0119dd6f-78da-4db3-a549-d21ca1c7abea" />
+<img width="940" height="498" alt="image" src="https://github.com/user-attachments/assets/3ea5f640-241e-4738-83c7-025f105b2ac6" />
 
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/cca1dddc-e6a5-4b6d-b449-bc8162fa9deb" />
 
 ### 运动记录
-<img width="440" height="152" alt="image" src="https://github.com/user-attachments/assets/39d80159-9692-42c9-8c28-8c71421e0801" />
+<img width="943" height="497" alt="image" src="https://github.com/user-attachments/assets/7e4ad2e2-ce87-41f1-8781-74c412222cff" />
 
-<img width="438" height="185" alt="image" src="https://github.com/user-attachments/assets/f8d24d24-d6cc-458f-9e2e-e0ba28797605" />
+<img width="941" height="502" alt="image" src="https://github.com/user-attachments/assets/28256de4-c133-44d4-ba28-74b491d351d5" />
 
-<img width="437" height="218" alt="image" src="https://github.com/user-attachments/assets/f8d48939-0107-41b2-9510-5fde4ab13c07" />
-
+ <img width="944" height="508" alt="image" src="https://github.com/user-attachments/assets/0520dad2-5517-47e3-8a19-dfa1c9593bdb" />
+ 
+ <img width="935" height="501" alt="image" src="https://github.com/user-attachments/assets/2b33bf35-b0ef-4193-873e-4f31e1aa7504" />
 
 
 ### 饮食记录
-<img width="411" height="168" alt="image" src="https://github.com/user-attachments/assets/7858c72b-5866-4729-a64d-41602206da13" />
+<img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/37764ddb-7bed-4bba-a522-947b0694745d" />
+
+<img width="932" height="488" alt="image" src="https://github.com/user-attachments/assets/68573597-9444-4a2e-ab30-19571acb398a" />
 
  AI识别食物
- 
-<img width="404" height="108" alt="image" src="https://github.com/user-attachments/assets/f7f27bea-be3b-4a76-b973-49b301cba89a" />
 
-<img width="437" height="196" alt="image" src="https://github.com/user-attachments/assets/8a7e9d17-3908-468b-9eaf-f2b5e22e7d3f" />
+ <img width="541" height="145" alt="image" src="https://github.com/user-attachments/assets/9ebcc28d-0b32-42d1-8747-98efe220ebb9" />
 
 ### 健康数据分析
-<img width="421" height="222" alt="image" src="https://github.com/user-attachments/assets/b037da26-8d8d-4705-820d-84729eb964c5" />
+<img width="936" height="503" alt="image" src="https://github.com/user-attachments/assets/a336b6bf-368e-41aa-8f93-c94cc850b386" />
 
-<img width="396" height="184" alt="image" src="https://github.com/user-attachments/assets/4c363e3b-d7e4-494c-ad80-47c92ec78165" />
+ <img width="942" height="499" alt="image" src="https://github.com/user-attachments/assets/d3542c05-c16e-419d-b716-24fe4bf955a8" />
 
-<img width="440" height="139" alt="image" src="https://github.com/user-attachments/assets/4b96afb9-e427-4cca-8773-6cceebd57a0e" />
+ <img width="942" height="495" alt="image" src="https://github.com/user-attachments/assets/e7b7eb80-92c2-4954-a7c9-a76ad85b7d2c" />
 
-<img width="435" height="211" alt="image" src="https://github.com/user-attachments/assets/a27137e4-80d2-4318-ac9a-4fb1e0a12595" />
+<img width="941" height="500" alt="image" src="https://github.com/user-attachments/assets/cd80a16d-c71a-4a9b-b1bb-9d4aae9efa48" />
+
 
 ### 健康资讯和社区
 
-<img width="445" height="229" alt="image" src="https://github.com/user-attachments/assets/1530b91b-5c37-492d-8d05-ed0d0cb6ca21" />
+<img width="946" height="496" alt="image" src="https://github.com/user-attachments/assets/9b99b71c-4a0f-4f5d-8516-c510b3a45331" />
 
-<img width="437" height="234" alt="image" src="https://github.com/user-attachments/assets/a9d374e8-e964-451a-a910-2e3038e73262" />
+<img width="950" height="499" alt="image" src="https://github.com/user-attachments/assets/4fdc86be-5635-4fcb-92c5-5f9a8d43a69b" />
 
-<img width="437" height="231" alt="image" src="https://github.com/user-attachments/assets/7efae64b-0c1c-44ea-9aaf-9634e453161e" />
+<img width="941" height="498" alt="image" src="https://github.com/user-attachments/assets/6d362b78-0db3-4426-b252-0346bfd521f8" />
 
-<img width="429" height="238" alt="image" src="https://github.com/user-attachments/assets/c4dd9446-6c51-4641-a562-79a7dc022b62" />
+<img width="945" height="505" alt="image" src="https://github.com/user-attachments/assets/f99bae06-9288-4af7-9758-be22e63cc27b" />
+
+<img width="950" height="507" alt="image" src="https://github.com/user-attachments/assets/31532ed1-a650-4bac-bfa7-014d9e740da0" />
 
 
 ### 管理后台
+<img width="944" height="499" alt="image" src="https://github.com/user-attachments/assets/8d0c1715-a448-4219-8918-9247ab7a49b3" />
 
-<img width="436" height="231" alt="image" src="https://github.com/user-attachments/assets/f442c83b-7d8b-4575-bed1-968c54680444" />
+<img width="493" height="450" alt="image" src="https://github.com/user-attachments/assets/36f41805-fefa-4fc4-a149-188b4ec61b2a" />
 
-<img width="428" height="181" alt="image" src="https://github.com/user-attachments/assets/e9d8d6c0-f804-40c6-a097-2e3407aac17d" />
+<img width="935" height="493" alt="image" src="https://github.com/user-attachments/assets/724d009b-2572-4efa-9e42-8f6473f15121" />
 
-<img width="411" height="189" alt="image" src="https://github.com/user-attachments/assets/51e46e44-e22c-4780-b33f-2322f3ef36f8" />
+<img width="945" height="497" alt="image" src="https://github.com/user-attachments/assets/b61302bf-57c0-40fb-accf-283c07028b2c" />
+
+<img width="945" height="501" alt="image" src="https://github.com/user-attachments/assets/eea33739-bcf5-45ba-a781-172ed68b8e57" />
+
+<img width="935" height="494" alt="image" src="https://github.com/user-attachments/assets/1d2ab131-cde4-4fe8-8669-506fa01d8124" />
+
+<img width="928" height="488" alt="image" src="https://github.com/user-attachments/assets/41c41fd5-e15d-445c-9464-08194142264f" />
+
+<img width="938" height="496" alt="image" src="https://github.com/user-attachments/assets/0aa0a24c-c95b-4e59-b598-e11a10f169ce" />
 
 
  该系统功能以上图片只展示部分。
